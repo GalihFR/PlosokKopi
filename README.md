@@ -1,5 +1,5 @@
 # PlosokKopi
-Sample UI Mobile with React Native
+Simple UI Mobile with React Native
 
 # Getting Started with Create React App
 
